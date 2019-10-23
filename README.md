@@ -1,4 +1,4 @@
-![image](https://i.kym-cdn.com/photos/images/newsfeed/001/499/826/2f0.png)
+//![image](https://i.kym-cdn.com/photos/images/newsfeed/001/499/826/2f0.png)
 
 # Welcome to my Computer Science Page
 On here you can find
