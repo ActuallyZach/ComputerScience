@@ -13,3 +13,7 @@ On here you can find
 ## Computer Science A
 1. Nothing yet sorry
 
+## Other Stuff
+1. Hackathon Stuffz
+  - Check out this for a small project me and my friends made in 4 hours for a competition.
+  
