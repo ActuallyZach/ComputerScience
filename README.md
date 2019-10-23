@@ -30,10 +30,10 @@
 
 # How to get into coding
 - Pick a language, I recomend the following languages for beginners
-1. [Swift](https://developer.apple.com/swift/) - For iOS development **You need a mac**
-2. [Java](https://www.java.com/en/) - Really just a good starting place for anyone trying to learn
-3. [Python](https://www.python.org) - It can do really eveything just takes some time
-4. [C++/C](https://en.wikipedia.org/wiki/C_(programming_language)) - These are a little harder to get started with in my opinion but they are still good.
+1. [Swift](https://developer.apple.com/swift/) --> For iOS development **You need a mac**
+2. [Java](https://www.java.com/en/) --> Really just a good starting place for anyone trying to learn
+3. [Python](https://www.python.org) --> It can do really eveything just takes some time
+4. [C++/C](https://en.wikipedia.org/wiki/C_(programming_language)) --> These are a little harder to get started with in my opinion but they are still good.
 
 ## What IDE (integrated development enviroment) should I use?
 I recomend some of the following
@@ -44,7 +44,7 @@ I recomend some of the following
 - [Visual Studio Code](https://code.visualstudio.com) --> This one is a good C/C++ editor.
 
 ## Places to learn
-1. [Learn](https://www.learnpython.org) -- This is a good site to jut get started with.
-2. [YouTube](https://www.youtube.com), literally just look things up.
-3. [Stack Overflow](https://stackoverflow.com) -- This is a good place to ask for help with code or just find code stuff.
+1. [Learn](https://www.learnpython.org) --> This is a good site to jut get started with.
+2. [YouTube](https://www.youtube.com) --> literally just look things up.
+3. [Stack Overflow](https://stackoverflow.com) --> This is a good place to ask for help with code or just find code stuff.
 
