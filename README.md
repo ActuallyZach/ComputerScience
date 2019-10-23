@@ -26,7 +26,9 @@ On here you can find
 
 ## What IDE (integrated development enviroment) should I use?
 I recomend some of the following
-- Xcode --> Used for iOS development mainly but can be used for other things.
-- Atom --> This is an all around editor thats good for a lot of things
-- NetBeans --> This is one of the IDE's I use for Java, it's easy for beginners
-- Eclipse --> Yet another IDE for Java. This one is much more popular than NetBeans
+- Xcode --> Used for iOS development mainly but can be used for other things. [Link](https://developer.apple.com/xcode/)
+- Atom --> This is an all around editor thats good for a lot of things. [Link](https://atom.io)
+- NetBeans --> This is one of the IDE's I use for Java, it's easy for beginners. [Link](https://netbeans.org)
+- Eclipse --> Yet another IDE for Java. This one is much more popular than NetBeans. [Link](https://www.eclipse.org)
+- Visual Studio Code --> This one is a good C/C++ editor. [Link](https://code.visualstudio.com)
+
