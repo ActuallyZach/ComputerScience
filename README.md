@@ -36,3 +36,4 @@ I recomend some of the following
 1. [Learn](https://www.learnpython.org) -- This is a good site to jut get started with.
 2. [YouTube](https://www.youtube.com), literally just look things up.
 3. [Stack Overflow](https://stackoverflow.com) -- This is a good place to ask for help with code or just find code stuff.
+
