@@ -4,6 +4,14 @@ On here you can find
 - Computer Science A --> **Uncomplete**
 - Resources and stuff that I think are useful to learn to code
 
+How to use the website
+- To View the Files either 
+1. Download the zip on left side
+2. Downlaod the tar ball
+3. Look at the projext on github
+- Other stuffz
+1. I mean its just a website just click stuff
+
 ## Computer Science Principles
 1. On the right of the screen click download zip file
 2. Open up the zip file
