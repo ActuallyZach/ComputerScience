@@ -37,6 +37,9 @@
 ## Hackathon Stuffz
 - Check out this for a small project me and my friends made in 4 hours for a competition.
 
+## [Oopsie OS]()
+Just a project I've been working on. It's written in C++ and C. It was written for being compilled on macOS. All it is a mock OS made to try and learn exploiting and other things.
+
 # How to get into coding
 Pick a language, I recomend the following languages for beginners
 1. [Swift](https://developer.apple.com/swift/) --> For iOS development _**You need a mac**_
