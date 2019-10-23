@@ -1,10 +1,11 @@
 # Welcome to my Computer Science Page
-On here you can find
+
+# On here you can find
 - Computer Science Principles --> **Complete**
 - Computer Science A --> **Uncomplete**
 - Resources and stuff that I think are useful to learn to code
 
-How to use the website
+# How to use the website
 - To View the Files either 
 1. Download the zip on left side
 2. Downlaod the tar ball
