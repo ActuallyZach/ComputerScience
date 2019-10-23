@@ -1,11 +1,13 @@
 # Welcome to my Computer Science Page
 
 ### On here you can find
-- Computer Science Principles --> **Complete**
-- Computer Science A --> **Uncomplete**
-- Resources and stuff that I think are useful to learn to code
-- Plenty of work to sauce
-- Make sure you change some stuff if your going to turn it in
+1. Computer Science Principles --> **Complete**
+- [CSP FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSP)
+2. Computer Science A --> **Wokring On It**
+- [CSA FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSA)
+3. Resources and stuff that I think are useful to learn to code
+4. Plenty of work to sauce
+5. Make sure you change some stuff if your going to turn it in
 
 ### How to use the website
 - To View the Files either 
