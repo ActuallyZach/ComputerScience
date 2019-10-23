@@ -14,6 +14,19 @@ On here you can find
 1. Nothing yet sorry
 
 ## Other Stuff
-1. Hackathon Stuffz
-  - Check out this for a small project me and my friends made in 4 hours for a competition.
-  
+### Hackathon Stuffz
+- Check out this for a small project me and my friends made in 4 hours for a competition.
+
+# How to get into coding
+- Pick a language, I recomend the following languages for beginners
+1. Swift - For iOS development **You need a mac**
+2. Java - Really just a good starting place for anyone trying to learn
+3. Python - It can do really eveything just takes some time
+4. C++/C - These are a little harder to get started with in my opinion but they are still good.
+
+## What IDE (integrated development enviroment) should I use?
+I recomend some of the following
+- Xcode --> Used for iOS development mainly but can be used for other things.
+- Atom --> This is an all around editor thats good for a lot of things
+- NetBeans --> This is one of the IDE's I use for Java, it's easy for beginners
+- Eclipse --> Yet another IDE for Java. This one is much more popular than NetBeans
