@@ -59,4 +59,6 @@ I recomend some of the following
 1. [Learn](https://www.learnpython.org) --> This is a good site to jut get started with.
 2. [YouTube](https://www.youtube.com) --> literally just look things up.
 3. [Stack Overflow](https://stackoverflow.com) --> This is a good place to ask for help with code or just find code stuff.
-
+4. [Code.org](https://code.org/learn) --> You can start here if you want it's just a good place to start some with some stuff.
+5. [Code Academy](https://www.codecademy.com) --> Another good spot to start
+6. [Khan Academy](https://www.khanacademy.org/computing/computer-programming) --> Bro, I got another website that helps out a whole bunch
