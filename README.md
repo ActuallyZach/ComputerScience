@@ -3,6 +3,7 @@
 ### On here you can find
 1. Computer Science Principles --> **Complete**
 - [CSP FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSP)
+- [Mobile CSP](https://course.mobilecsp.org/mobilecsp/course?use_last_location=true)
 2. Computer Science A --> **Wokring On It**
 - [CSA FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSA)
 3. Resources and stuff that I think are useful to learn to code
