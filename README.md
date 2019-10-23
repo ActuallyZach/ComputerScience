@@ -5,10 +5,11 @@ On here you can find
 - Resources and stuff that I think are useful to learn to code
 
 ## Computer Science Principles
-1. Look through the CSP folder found above
-2. Download any files that you need or looks at them
-3. Sauce my work
-4. Boom profit
+1. On the right of the screen click download zip file
+2. Open up the zip file
+3. Look through the zip file to find anything you need
+4.Sauce my work
+5. Boom profit
 
 ## Computer Science A
 1. Nothing yet sorry
