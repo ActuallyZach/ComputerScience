@@ -34,11 +34,11 @@
 4. Sauce my work
 5. Boom profit
 
-## [Hackathon Stuffz](https://github.com/Zxtreme03/ComputerScience/tree/master/HackAThon)
-- Check out this for a small project me and my friends made in 4 hours for a competition.
+## Hackathon Stuffz
+[Check out](https://github.com/Zxtreme03/ComputerScience/tree/master/HackAThon) this for a small project me and my friends made in 4 hours for a competition.
 
-## [Oopsie OS](https://github.com/Zxtreme03/ComputerScience/tree/master/OopsieOS)
-Just a project I've been working on. It's written in C++ and C. It was written for being compilled on macOS. All it is a mock OS made to try and learn exploiting and other things.
+## Oopsie OS
+Just a project I've been working on. It's written in C++ and C. It was written for being compilled on macOS. All it is a mock OS made to try and learn exploiting and other things. Check out the files [here](https://github.com/Zxtreme03/ComputerScience/tree/master/OopsieOS)
 
 # How to get into coding
 Pick a language, I recomend the following languages for beginners
