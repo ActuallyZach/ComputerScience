@@ -1,3 +1,5 @@
+![image](https://imgur.com/a/USYH9SA)
+
 # Welcome to my Computer Science Page
 On here you can find
 - Computer Science Principles --> **Complete**
