@@ -30,7 +30,7 @@
 
 # How to get into coding
 - Pick a language, I recomend the following languages for beginners
-1. [Swift](https://developer.apple.com/swift/) --> For iOS development **You need a mac**
+1. [Swift](https://developer.apple.com/swift/) --> For iOS development _**You need a mac**_
 2. [Java](https://www.java.com/en/) --> Really just a good starting place for anyone trying to learn
 3. [Python](https://www.python.org) --> It can do really eveything just takes some time
 4. [C++/C](https://en.wikipedia.org/wiki/C_(programming_language)) --> These are a little harder to get started with in my opinion but they are still good.
