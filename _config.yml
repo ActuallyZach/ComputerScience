@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: [Zachary Lineman's Computer Science page]
+title: Zachary Lineman's Computer Science page
 description: []
-logo: [/Logo]
-show_downloads: ["true"]
+logo: /Logo
+show_downloads: true
