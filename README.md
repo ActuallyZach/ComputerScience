@@ -19,14 +19,18 @@
 1. I mean its just a website just click stuff
 
 ## Computer Science Principles
-1. On the right of the screen click download zip file
-2. Open up the zip file
-3. Look through the zip file to find anything you need
+1. Go to the [CSP FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSP) and look around for what you need.
+2. Look around and downlaod stuff
+3. I mean the rest is pretty easy, just change some stuff then,
 4. Sauce my work
 5. Boom profit
 
 ## Computer Science A
-1. Nothing yet sorry
+1. Go to the - [CSA FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSA) and look around for what you need.
+2. Look around and downlaod stuff
+3. The stuff is not very well orginized so stuff is very unorginzed. It may take you a while to find stuff
+4. Sauce my work
+5. Boom profit
 
 ## Hackathon Stuffz
 - Check out this for a small project me and my friends made in 4 hours for a competition.
@@ -40,11 +44,11 @@
 
 ## What IDE (integrated development enviroment) should I use?
 I recomend some of the following
-- [Xcode](https://developer.apple.com/xcode/) --> Used for iOS development mainly but can be used for other things. 
-- [Atom](https://atom.io) --> This is an all around editor thats good for a lot of things. 
-- [NetBeans](https://netbeans.org) --> This is one of the IDE's I use for Java, it's easy for beginners. 
-- [Eclipse](https://www.eclipse.org) --> Yet another IDE for Java. This one is much more popular than NetBeans. 
-- [Visual Studio Code](https://code.visualstudio.com) --> This one is a good C/C++ editor.
+1. [Xcode](https://developer.apple.com/xcode/) --> Used for iOS development mainly but can be used for other things. 
+2. [Atom](https://atom.io) --> This is an all around editor thats good for a lot of things. 
+3. [NetBeans](https://netbeans.org) --> This is one of the IDE's I use for Java, it's easy for beginners. 
+4. [Eclipse](https://www.eclipse.org) --> Yet another IDE for Java. This one is much more popular than NetBeans. 
+5. [Visual Studio Code](https://code.visualstudio.com) --> This one is a good C/C++ editor.
 
 ## Places to learn
 1. [Learn](https://www.learnpython.org) --> This is a good site to jut get started with.
