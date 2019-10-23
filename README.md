@@ -8,7 +8,7 @@ On here you can find
 1. On the right of the screen click download zip file
 2. Open up the zip file
 3. Look through the zip file to find anything you need
-4.Sauce my work
+4. Sauce my work
 5. Boom profit
 
 ## Computer Science A
@@ -26,9 +26,9 @@ On here you can find
 
 ## What IDE (integrated development enviroment) should I use?
 I recomend some of the following
-- Xcode --> Used for iOS development mainly but can be used for other things. [Link](https://developer.apple.com/xcode/)
-- Atom --> This is an all around editor thats good for a lot of things. [Link](https://atom.io)
-- NetBeans --> This is one of the IDE's I use for Java, it's easy for beginners. [Link](https://netbeans.org)
-- Eclipse --> Yet another IDE for Java. This one is much more popular than NetBeans. [Link](https://www.eclipse.org)
-- Visual Studio Code --> This one is a good C/C++ editor. [Link](https://code.visualstudio.com)
+- [Xcode](https://developer.apple.com/xcode/) --> Used for iOS development mainly but can be used for other things. 
+- [Atom](https://atom.io) --> This is an all around editor thats good for a lot of things. 
+- [NetBeans](https://netbeans.org) --> This is one of the IDE's I use for Java, it's easy for beginners. 
+- [Eclipse](https://www.eclipse.org) --> Yet another IDE for Java. This one is much more popular than NetBeans. 
+- [Visual Studio Code](https://code.visualstudio.com) --> This one is a good C/C++ editor.
 
