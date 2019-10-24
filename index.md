@@ -1,9 +1,3 @@
----
-title: Home
-layout: jekyll-theme-cayman
-filename: index.md
---- 
-
 # Welcome to my Computer Science Page
 ### !!! Please only use this website only for reference. It is here to help you on concepts you do not understand. Copying things will not help you advance in the class and will result in you not learning anything from this class.
 ### What is coming in the near future?
