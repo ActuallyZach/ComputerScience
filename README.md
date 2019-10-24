@@ -36,12 +36,6 @@
 2. Look around and download stuff
 3. The stuff is not very well organized and therefore very unorganized. It may take you a while to find stuff
 
-## [Hackathon Stuffz](https://github.com/Zxtreme03/ComputerScience/tree/master/HackAThon)
-Check out this for a small project me and my friends made in 4 hours for a competition.
-
-## [Oopsie OS](https://github.com/Zxtreme03/OopsieOS)
-Just a project I've been working on. It's written in C++ and C. It was written for being compiled on macOS. It is just a mock OS made to try and learn exploiting and other things.
-
 ## Credits
 - Zachary Lineman, writing and coding
 - Taryn DeFusco, editing and making sure my english is understandable
