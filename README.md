@@ -23,16 +23,12 @@
 ## Computer Science Principles
 1. Go to the [CSP FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSP) and look around for what you need.
 2. Look around and download stuff
-3. I mean the rest is pretty easy, just change some stuff then
-4. "Don't" Sauce my work
-5. Boom "profit"
+3. You can look through the files you downloaded and learn how different things are implemented.
 
 ## Computer Science A
 1. Go to the - [CSA FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSA) and look around for what you need.
 2. Look around and download stuff
 3. The stuff is not very well organized and therefore very unorganized. It may take you a while to find stuff
-4. "Don't" Sauce my work
-5. Boom "profit"
 
 ## [Hackathon Stuffz](https://github.com/Zxtreme03/ComputerScience/tree/master/HackAThon)
 Check out this for a small project me and my friends made in 4 hours for a competition.
