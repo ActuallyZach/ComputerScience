@@ -10,7 +10,7 @@
 4. Resources and stuff that I think are useful to learn to code
 5. [Complete Package](https://github.com/Zxtreme03/ComputerScience/releases/tag/1.0.0) --> This is all the packages that you need to get started with.
 6. [Other Projects](./Pages/projects)
-7. [Learn to code](./Pages/Coding)
+7. [Learn to code](./Pages/CODING)
 
 ## How to use the website
 - To View the Files either 
