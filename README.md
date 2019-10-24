@@ -1,18 +1,12 @@
 # Welcome to my Computer Science Page
 ### !!! Please only use this website only for reference. It is here to help you on concepts you do not understand. Copying things will not help you advance in the class and will result in you not learning anything from this class. !!!
-### What is coming in the near future?
-1. Lessons!!
-- I'm going to be writing out my own lessons on stuff I am currently learning so if your stuck on something you can looks through the lessons that will be coming soon
-- You can email me [here](mailto:zachary.lineman0@gmail.com), I will check this email regurly and the update this site with the lessons you want to learn.
-2. More languages and stuff
 
 ### On here you can find
 1. [Complete Package](https://github.com/Zxtreme03/ComputerScience/releases/tag/1.0.0) --> This is all the packages that you need to get started with.
 2. Computer Science Principles --> **Complete**
-- [CSP FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSP)
-- [Mobile CSP](https://course.mobilecsp.org/mobilecsp/course?use_last_location=true)
+- [CSP Page](./Pages/CSP)
 3. Computer Science A --> **Working On It**
-- [CSA FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSA)
+- [CSA Page](./Pages/CSA)
 4. Resources and stuff that I think are useful to learn to code
 5. [Lessons](./Pages/lessonsPage)
 
@@ -23,8 +17,14 @@
 3. Look at the project on Github
 4. Or you can click on the links for the individual folders
 
-- Other stuffz
-1. I mean it's just a website just click stuff
+### Other stuffz
+- I mean it's just a website just click stuff
+
+### What is coming in the near future?
+1. Lessons!!
+- I'm going to be writing out my own lessons on stuff I am currently learning so if your stuck on something you can looks through the lessons that will be coming soon
+- You can email me [here](mailto:zachary.lineman0@gmail.com), I will check this email regurly and the update this site with the lessons you want to learn.
+2. More languages and stuff
 
 ## Credits
 - Zachary Lineman, writing and coding
