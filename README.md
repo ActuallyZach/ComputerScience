@@ -1,4 +1,9 @@
 # Welcome to my Computer Science Page
+### What is coming in the near future?
+1. Lessons!!
+- I'm going to be writing out my own lessons on stuff I am currently learning so if your stuck on something you can looks through the lessons that will be coming soon
+- You can email me [here](zachary.lineman@gmail.com)
+2. More languages and stuff
 
 ### On here you can find
 1. [Complete Package](https://github.com/Zxtreme03/ComputerScience/releases/tag/1.0.0) --> This is the entire repo in a downloadable package. A good spot to start
