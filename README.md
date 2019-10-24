@@ -16,6 +16,7 @@
 2. Download the tarball
 3. Look at the project on Github
 4. Or you can click on the links for the individual folders
+- Go to the different pages for CSA, CSP and lessons to find what you need.
 
 ### Other stuffz
 - I mean it's just a website just click stuff
