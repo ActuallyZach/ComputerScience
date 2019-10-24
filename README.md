@@ -3,7 +3,7 @@
 ### What is coming in the near future?
 1. Lessons!!
 - I'm going to be writing out my own lessons on stuff I am currently learning so if your stuck on something you can looks through the lessons that will be coming soon
-- You can email me [here](mailto:zachary.lineman0@gmail.com)
+- You can email me [here](mailto:zachary.lineman0@gmail.com), I will check this email regurly and the update this site with the lessons you want to learn.
 2. More languages and stuff
 
 ### On here you can find
