@@ -73,17 +73,17 @@ I recommend some of the following
 6. [Hopson](https://www.youtube.com/channel/UCeQhZOvNKSBRU0Mdg7V44wA), Makes really good coding content, has a lot of explanation videos and is very good at getting you interested in different parts of coding.
 
 ## I want to make games but I don't know how to code! What should I do?
-# Well first you need to figure out what kind of game you want to make. Do you want a 3D game or a 2D game.
+### Well first you need to figure out what kind of game you want to make. Do you want a 3D game or a 2D game.
 - I want to make a 3D game --> [Unreal Engine](https://www.unrealengine.com/), Unreal Engine is known for its ability to render beautiful 3D scenes and make stunning games. Most people use Unreal Engine for 3D games because of its easy support for the 3D space.
 - I want to make a 2D game --> [Unity](https://unity.com), Unity is well known for it's easy support of 2D games and is usually the place most people go when they want to develop a 2D game. This does not mean you can't use it for 3D games.
 
-# Next do you want to be able to use a drag and drop coding language or do you want to write all the code?
+### Next do you want to be able to use a drag and drop coding language or do you want to write all the code?
 - I want to use a drag and drop coding language --> [Unreal Engine](https://www.unrealengine.com/), Unreal engine has a built in language they call blueprints, this is a modern drag and drop coding language used for making games and is quite powerful.
 - I want to write all the code myself --> [Unity](https://unity.com), Unity uses C# to make different parts of games. This allows for you to do things exactly how you want them to be done and gives more control but is generally harder to work with for beginners.
 
 Finally, if you feel like it, you can always code your own game engine in a coding language of your choice, or you can make a game using other existing engines. There are endless combinations for things you can make. Any engine you start with will provide a very good platform to work with, and it is really all up to personal preference and whatever you are most comfortable with.
 
-### Credits
+## Credits
 - Zachary Lineman, writing and coding
 - Taryn DeFusco, editing and making sure my english is understandable
 - Other People, Idk other people probably helped. I honestly can't really remember
