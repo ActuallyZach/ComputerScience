@@ -2,15 +2,15 @@
 ### !!! Please only use this website only for reference. It is here to help you on concepts you do not understand. Copying things will not help you advance in the class and will result in you not learning anything from this class. !!!
 
 ## On here you can find
-1. [Lessons](./Pages/lessonsPage)
+1. [Lessons](./lessonsPage)
 2. Computer Science Principles --> **Complete**
-- [CSP Page](./Pages/CSP)
+- [CSP Page](./CSP)
 3. Computer Science A --> **Working On It**
-- [CSA Page](./Pages/CSA)
+- [CSA Page](./CSA)
 4. Resources and stuff that I think are useful to learn to code
 5. [Complete Package](https://github.com/Zxtreme03/ComputerScience/releases/tag/1.0.0) --> This is all the packages that you need to get started with.
-6. [Other Projects](./Pages/projects)
-7. [Learn to code](./Pages/CODING)
+6. [Other Projects](./projects)
+7. [Learn to code](./CODING)
 
 ## How to use the website
 - To View the Files either 
