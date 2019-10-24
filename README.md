@@ -86,4 +86,5 @@ Finally, if you feel like it, you can always code your own game engine in a codi
 ## Credits
 - Zachary Lineman, writing and coding
 - Taryn DeFusco, editing and making sure my english is understandable
+- Sara Herdeer, made sure that it was understandable yet again
 - Other People, Idk other people probably helped. I honestly can't really remember
