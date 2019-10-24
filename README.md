@@ -2,9 +2,9 @@
 ### !!! Please only use this website only for reference. It is here to help you on concepts you do not understand. Copying things will not help you advance in the class and will result in you not learning anything from this class. !!!
 
 ## On here you can find
-1. [Lessons](./lessonsPage)
-2. [Learn to code](./CODING)
-3.Computer Science Principles --> **Complete**
+1. [Lessons](./lessonsPage) --> **Under Construction**
+2. [Learn to code](./CODING) --> **Working on it**
+3. Computer Science Principles --> **Complete**
 - [CSP Page](./CSP)
 4. Computer Science A --> **Working On It**
 - [CSA Page](./CSA)
