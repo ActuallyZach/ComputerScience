@@ -1,5 +1,5 @@
 # Welcome to my Computer Science Page
-### !!! Please only use this website only for reference. It is here to help you on concepts you do not understand. Copying things will not help you advance in the class and will result in you not learning anything in this class.
+### !!! Please only use this website only for reference. It is here to help you on concepts you do not understand. Copying things will not help you advance in the class and will result in you not learning anything from this class.
 ### What is coming in the near future?
 1. Lessons!!
 - I'm going to be writing out my own lessons on stuff I am currently learning so if your stuck on something you can looks through the lessons that will be coming soon
