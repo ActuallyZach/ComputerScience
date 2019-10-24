@@ -64,12 +64,20 @@ I recommend some of the following
 5. [Code Academy](https://www.codecademy.com) --> Another good spot to start
 6. [Khan Academy](https://www.khanacademy.org/computing/computer-programming) --> Bro, I got another website that helps out a whole bunch
 
+## Amazing youtube channels I highley recomend
+1. [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q), Makes really good AI content.
+2. [ThinMatrix](https://www.youtube.com/channel/UCUkRj4qoT1bsWpE_C8lZYoQ), Makes good Dev Logs
+3. [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw), Makes really good satire content that is fun to watch and get ideas from.
+4. [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg), Makes good AI content and is really good at explaining how things he does work.
+5. [William Osman](https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw), Makes good satire content like Michael Reeves. His stuff is more robotics based 
+6. [Hopson](https://www.youtube.com/channel/UCeQhZOvNKSBRU0Mdg7V44wA), Makes really good coding content, has a lot of explanation videos and is very good at getting you interested in different parts of coding.
+
 ## I want to make games but I don't know how to code! What should I do?
-Well first you need to figure out what kind of game you want to make. Do you want a 3D game or a 2D game.
+# Well first you need to figure out what kind of game you want to make. Do you want a 3D game or a 2D game.
 - I want to make a 3D game --> [Unreal Engine](https://www.unrealengine.com/), Unreal Egnine is known for it's ability to render beutiful 3D scenes and make stunning games. Most people use Unreal Engine for 3D games because of its easy support for the 3D space.
 - I want to make a 2D game --> [Unity](https://unity.com), Unity is well known for it's easy support of 2D games and is usually the place most people go when they want to develop a 2D game. This does not mean you can't use it for 3D games.
 
-Next do you want to be able to use a drag and drop coding langauge or do you want to write all the code?
+# Next do you want to be able to use a drag and drop coding langauge or do you want to write all the code?
 - I want to use a drag and drop coding langauge --> [Unreal Engine](https://www.unrealengine.com/), Unreal engine has a built in langauge they call blueprints, this is a modern drag and drop coding langauge used for making games and is quite powerfull.
 - I want to write all the code myself --> [Unity](https://unity.com), Unity uses C# to make different parts of games. This allows for you to do things exactly how you want them to be done and gives more control but is generally harder to work with for beginners.
 
