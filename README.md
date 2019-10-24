@@ -26,11 +26,6 @@
 - Other stuffz
 1. I mean it's just a website just click stuff
 
-## Computer Science Principles
-1. Go to the [CSP FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSP) and look around for what you need.
-2. Look around and download stuff
-3. You can look through the files you downloaded and learn how different things are implemented.
-
 ## Computer Science A
 1. Go to the - [CSA FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSA) and look around for what you need.
 2. Look around and download stuff
