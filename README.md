@@ -63,3 +63,14 @@ I recommend some of the following
 4. [Code.org](https://code.org/learn) --> You can start here if you want it's just a good place to start some with some stuff.
 5. [Code Academy](https://www.codecademy.com) --> Another good spot to start
 6. [Khan Academy](https://www.khanacademy.org/computing/computer-programming) --> Bro, I got another website that helps out a whole bunch
+
+## I want to make games but I don't know how to code! What should I do?
+Well first you need to figure out what kind of game you want to make. Do you want a 3D game or a 2D game.
+- I want to make a 3D game --> Unreal Engine, Unreal Egnine is known for it's ability to render beutiful 3D scenes and make stunning games. Most people use Unreal Engine for 3D games because of its easy support for the 3D space.
+- I want to make a 2D game --> Unity, Unity is well known for it's easy support of 2D games and is usually the place most people go when they want to develop a 2D game. This does not mean you can't use it for 3D games.
+
+Next do you want to be able to use a drag and drop coding langauge or do you want to write all the code?
+- I want to use a drag and drop coding langauge --> Unreal Engine, Unreal engine has a built in langauge they call blueprints, this is a modern drag and drop coding langauge used for making games and is quite powerfull.
+- I want to write all the code myself --> Unity, Unity uses C# to make different parts of games. This allows for you to do things exactly how you want them to be done and gives more control but is generally harder to work with for beginners.
+
+Finally, if you feel like it you can always either code your own game engine in a coding langauge of your choice or make a gsame using other exsisting engines. Their are limitless combinations for things you can make. Any engine you start with will provide a very good platform to work with and it is really all up to personal preference and whatever you are most comforatble with.
