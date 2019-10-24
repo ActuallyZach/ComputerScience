@@ -23,14 +23,14 @@
 ## Computer Science Principles
 1. Go to the [CSP FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSP) and look around for what you need.
 2. Look around and download stuff
-3. I mean the rest is pretty easy, just change some stuff then,
+3. I mean the rest is pretty easy, just change some stuff then
 4. Sauce my work
 5. Boom profit
 
 ## Computer Science A
 1. Go to the - [CSA FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSA) and look around for what you need.
 2. Look around and download stuff
-3. The stuff is not very well organized so stuff is very unorganized. It may take you a while to find stuff
+3. The stuff is not very well organized and therefore very unorganized. It may take you a while to find stuff
 4. Sauce my work
 5. Boom profit
 
@@ -38,7 +38,7 @@
 Check out this for a small project me and my friends made in 4 hours for a competition.
 
 ## [Oopsie OS](https://github.com/Zxtreme03/ComputerScience/tree/master/OopsieOS)
-Just a project I've been working on. It's written in C++ and C. It was written for being compiled on macOS. All it is a mock OS made to try and learn exploiting and other things.
+Just a project I've been working on. It's written in C++ and C. It was written for being compiled on macOS. It is just a mock OS made to try and learn exploiting and other things.
 
 # How to get into coding
 Pick a language, I recommend the following languages for beginners
@@ -68,7 +68,7 @@ I recommend some of the following
 1. [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q), Makes really good AI content.
 2. [ThinMatrix](https://www.youtube.com/channel/UCUkRj4qoT1bsWpE_C8lZYoQ), Makes good Dev Logs
 3. [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw), Makes really good satire content that is fun to watch and get ideas from.
-4. [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg), Makes good AI content and is really good at explaining how things he does work.
+4. [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg), Makes good AI content and is really good at explaining how his things work.
 5. [William Osman](https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw), Makes good satire content like Michael Reeves. His stuff is more robotics based 
 6. [Hopson](https://www.youtube.com/channel/UCeQhZOvNKSBRU0Mdg7V44wA), Makes really good coding content, has a lot of explanation videos and is very good at getting you interested in different parts of coding.
 
@@ -81,6 +81,9 @@ I recommend some of the following
 - I want to use a drag and drop coding language --> [Unreal Engine](https://www.unrealengine.com/), Unreal engine has a built in language they call blueprints, this is a modern drag and drop coding language used for making games and is quite powerful.
 - I want to write all the code myself --> [Unity](https://unity.com), Unity uses C# to make different parts of games. This allows for you to do things exactly how you want them to be done and gives more control but is generally harder to work with for beginners.
 
-Finally, if you feel like it you can always either code your own game engine in a coding language of your choice or make a game using other existing engines. There are limitless combinations for things you can make. Any engine you start with will provide a very good platform to work with and it is really all up to personal preference and whatever you are most comfortable with.
+Finally, if you feel like it, you can always code your own game engine in a coding language of your choice, or you can make a game using other existing engines. There are endless combinations for things you can make. Any engine you start with will provide a very good platform to work with, and it is really all up to personal preference and whatever you are most comfortable with.
 
-
+### Credits
+- Zachary Lineman, writing and coding
+- Taryn DeFusco, editing and making sure my english is understandable
+- Other People, Idk other people probably helped. I honestly can't really remember
