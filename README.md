@@ -14,7 +14,7 @@
 3. Computer Science A --> **Working On It**
 - [CSA FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSA)
 4. Resources and stuff that I think are useful to learn to code
-5. [Lessons](./Pages/lessonsPage.html)
+5. [Lessons](./Pages/lessonsPage)
 
 ### How to use the website
 - To View the Files either 
