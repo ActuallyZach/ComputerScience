@@ -3,14 +3,14 @@
 
 ## On here you can find
 1. [Lessons](./lessonsPage)
-2. Computer Science Principles --> **Complete**
+2. [Learn to code](./CODING)
+3.Computer Science Principles --> **Complete**
 - [CSP Page](./CSP)
-3. Computer Science A --> **Working On It**
+4. Computer Science A --> **Working On It**
 - [CSA Page](./CSA)
-4. Resources and stuff that I think are useful to learn to code
-5. [Complete Package](https://github.com/Zxtreme03/ComputerScience/releases/tag/1.0.0) --> This is all the packages that you need to get started with.
-6. [Other Projects](./projects)
-7. [Learn to code](./CODING)
+5. Resources and stuff that I think are useful to learn to code
+6. [Complete Package](https://github.com/Zxtreme03/ComputerScience/releases/tag/1.0.0) --> This is all the packages that you need to get started with.
+7. [Other Projects](./projects) 
 
 ## How to use the website
 - To View the Files either 
