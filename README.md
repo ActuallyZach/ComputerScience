@@ -46,6 +46,8 @@ Just a project I've been working on. It's written in C++ and C. It was written f
 2. [Java](https://www.java.com/en/) --> Really just a good starting place for anyone trying to learn
 3. [Python](https://www.python.org) --> It can do really everything just takes some time
 4. [C++/C](https://en.wikipedia.org/wiki/C_(programming_language)) --> These are a little harder to get started with in my opinion but they are still good.
+5. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) --> A language used for writing websites, really easy and perfect for beginners.
+6. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) --> Goes hand in hand with HTML, helps create beutiful websites.
 
 ## What IDE (integrated development environment) should I use?
 I recommend some of the following
@@ -74,8 +76,8 @@ I recommend some of the following
 
 ## I want to make games but I don't know how to code! What should I do?
 ### Well first you need to figure out what kind of game you want to make. Do you want a 3D game or a 2D game.
-- I want to make a 3D game --> [Unreal Engine](https://www.unrealengine.com/), Unreal Engine is known for its ability to render beautiful 3D scenes and make stunning games. Most people use Unreal Engine for 3D games because of its easy support for the 3D space.
-- I want to make a 2D game --> [Unity](https://unity.com), Unity is well known for it's easy support of 2D games and is usually the place most people go when they want to develop a 2D game. This does not mean you can't use it for 3D games.
+- I want to make a 3D game --> [Unreal Engine](https://www.unrealengine.com/) or [Unity](https://unity.com), Unreal Engine is known for its ability to render beautiful 3D scenes and make stunning games. Most people use Unreal Engine for 3D games because of its easy support for the 3D space. Unity is well known for it's easy support of 2D games and is usually the place most people go when they want to develop a 2D game. Unity can also be used to develop 3D games with ease, it has a very powerful editor and with lots of customizability is a perfect choice for 3D game development.
+- I want to make a 2D game --> [Game Maker Studio](https://www.yoyogames.com/gamemaker), Game Maker Studio
 
 ### Next do you want to be able to use a drag and drop coding language or do you want to write all the code?
 - I want to use a drag and drop coding language --> [Unreal Engine](https://www.unrealengine.com/), Unreal engine has a built in language they call blueprints, this is a modern drag and drop coding language used for making games and is quite powerful.
@@ -87,4 +89,5 @@ Finally, if you feel like it, you can always code your own game engine in a codi
 - Zachary Lineman, writing and coding
 - Taryn DeFusco, editing and making sure my english is understandable
 - Sara Herdeer, made sure that it was understandable yet again
+- Sam Ferreria, made the entry on Game Maker Studio and recomended the addition of HTML.
 - Other People, Idk other people probably helped. I honestly can't really remember
