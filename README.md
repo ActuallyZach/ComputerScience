@@ -41,7 +41,6 @@ Check out this for a small project me and my friends made in 4 hours for a compe
 Just a project I've been working on. It's written in C++ and C. It was written for being compiled on macOS. It is just a mock OS made to try and learn exploiting and other things.
 
 # How to get into coding
-
 ## Pick a language, I recommend the following languages for beginners
 1. [Swift](https://developer.apple.com/swift/) --> For iOS development _**You need a mac**_
 2. [Java](https://www.java.com/en/) --> Really just a good starting place for anyone trying to learn
