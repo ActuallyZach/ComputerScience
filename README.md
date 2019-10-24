@@ -88,5 +88,5 @@ Finally, if you feel like it, you can always code your own game engine in a codi
 - Zachary Lineman, writing and coding
 - Taryn DeFusco, editing and making sure my english is understandable
 - Sara Herdeer, made sure that it was understandable yet again
-- Sam Ferreria, made the entry on Game Maker Studio and recomended the addition of HTML.
+- Sam Ferreira, made the entry on Game Maker Studio and recomended the addition of HTML.
 - Other People, Idk other people probably helped. I honestly can't really remember
