@@ -3,7 +3,7 @@
 
 ## Lesson 1 - 10/24/19
 ### Today's topic will be if then statements
-You can view the lesson [here]()
+You can view the lesson [here](./lessons/Lesson1)
 
 
 ### Here are some links
