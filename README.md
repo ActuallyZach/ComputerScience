@@ -1,13 +1,14 @@
 # Welcome to my Computer Science Page
 
 ### On here you can find
-1. Computer Science Principles --> **Complete**
+1. [Complete Package](https://github.com/Zxtreme03/ComputerScience/releases/tag/1.0.0) --> This is the entire repo in a downloadable package. A good spot to start
+2. Computer Science Principles --> **Complete**
 - [CSP FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSP)
 - [Mobile CSP](https://course.mobilecsp.org/mobilecsp/course?use_last_location=true)
-2. Computer Science A --> **Working On It**
+3. Computer Science A --> **Working On It**
 - [CSA FOLDER](https://github.com/Zxtreme03/ComputerScience/tree/master/CSA)
-3. Resources and stuff that I think are useful to learn to code
-4. Plenty of work to sauce
+4. Resources and stuff that I think are useful to learn to code
+5. Plenty of work to sauce
 
 ### How to use the website
 - To View the Files either 
