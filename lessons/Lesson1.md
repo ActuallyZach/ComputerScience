@@ -1,6 +1,6 @@
 # Lesson 1 - 10/24/2019 --> IF statements
 If statements in java are one of the core things to learn. Below are some examples of If statements
-```JS
+```js
 //These are basic if statements with a pre declared variable bool1.
 if (bool1 == true) { //This is the first check, what it does is check if bool1 is true. If bool1 is true it will activate the code within the curly braces.
   System.out.println("This will be activated if bool1 is true");
@@ -11,7 +11,7 @@ if (bool1 == true) { //This is the first check, what it does is check if bool1 i
 }
 ```
 Now those were simple if statements with just IF - Else. Now we will look at IF - Else If, statements.
-```JS
+```js
 if (string1.eqauls("Correct")) { //This first check, looks to see if string1 is equal to the String "Correct". If this is not true then java will go to the next if statement
   System.out.println("This will be activated if string1 is equal to \"Correct\"");
 
@@ -21,7 +21,7 @@ System.out.println("This will be activated if string1 is equal to \"Wrong\"");
 }
 ```
 Now for one of the last simple if statements, an If - Else If - else
-```JS
+```js
 if (string1.eqauls("Correct")) { //This first check, looks to see if string1 is equal to the String "Correct". If this is not true then java will go to the next if statement
 System.out.println("This will be activated if string1 is equal to \"Correct\"");
 
