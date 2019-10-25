@@ -7,5 +7,7 @@
 ## Other resources
 - [CS Awesome](https://runestone.academy/runestone/books/published/csawesome/index.html)
 - [Runestone Acedemy](https://runestone.academy/runestone/books/published/apcsareview/index.html)
+- [Here are some of the power-points](./Powerpoints)
+
 
 [<-- Back](./)
