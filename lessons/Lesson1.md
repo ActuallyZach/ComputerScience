@@ -26,10 +26,10 @@ Now for one of the last simple if statements, an If - Else If - else
 if (string1.eqauls("Correct")) { //This first check, looks to see if string1 is equal to the String "Correct". If this is not true then java will go to the next if statement
 System.out.println("This will be activated if string1 is equal to \"Correct\"");
 
-} else if (string1.eqauls("Wrong")) { //This is the second check, it looks to see if string1 is equal to the String "Wrong". If this is not true the if statement will exit because there is no else statement at the very end.
+} else if (string1.eqauls("Wrong")) { //This is the second check, it looks to see if string1 is equal to the String "Wrong". If this is not true the if statement will go to the else clause below.
 System.out.println("This will be activated if string1 is equal to \"Wrong\"");
 
-} else {
+} else { // This wil activate when string one is equal to neither "Correct" or "Wrong"
   System.out.println("This will be activated if string is not equal to either \"Correct\" or \"Wrong\");
 
 }
