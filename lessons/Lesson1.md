@@ -1,4 +1,4 @@
-# Lesson 1 - 10/24/2019 --> If statements
+# Lesson 1 - 10/24/2019 --> Java if statements
 If statements in java are one of the core things to learn. Below are some examples of If statements
 ```js
 //These are basic if statements with a pre declared variable bool1.
