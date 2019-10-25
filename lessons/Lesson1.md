@@ -1,5 +1,5 @@
 # Lesson 1 - 10/24/2019 --> IF statements
-If statements in java are one of the core things to learn. Below are some examples of IF statements
+If statements in java are one of the core things to learn. Below are some examples of If statements
 ```Java
 //These are basic if statements with a pre declared variable bool1.
 if (bool1 == true) { //This is the first check, what it does is check if bool1 is true. If bool1 is true it will activate the code within the curly braces.
