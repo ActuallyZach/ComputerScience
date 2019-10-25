@@ -1,4 +1,4 @@
-# Lesson 1 - 10/24/2019## IF statements
+# Lesson 1 - 10/24/2019 --> IF statements
 ## IF statements
 If statements in java are one of the core things to learn. Below are some examples of IF statements
 ```Java
