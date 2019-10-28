@@ -30,33 +30,33 @@ person Larry = new Person("Lerroy", 24, false, false);
 This will construct the object Lerroy with the class person. You can see that we use the constructor we set up before when creating this new object, you can see that in action when we enter the Name, age, sick, married variable after declaring new Person.
 
 ## What types of methods are there
-There are many different types of methods the user can create and insert into their classes. They are as follows -->
-
+There are many different types of methods the user can create and insert into their classes. Assume all of these methods are found within the person class They are as follows -->
 ### Void Type
 The first method is the void method which is simply
 ```js
-/*
-Assume that the variable name has already been declared.
-*/
 public void displayName() {
   System.out.println(name);
 
 }
 ```
-Notice how the void method has no return statement. This is because it requires none.
+Notice how the void method has no return statement. This is because it requires none. This can be called by,
+```js
+Lerroy.displayName();
+```
 
-### int type
+### Integer type
 The int method returns an integer when it is completed. An example is
 ```js
-/*
-Assume that the variable age has already been declared.
-*/
 public int returnAge() {
 
   return age;
 }
 ```
-Notice how this method does return a value. It returns the variable age.
+Notice how this method does return a value. It returns the variable age. This can be called by,
+```js
+System.out.println("Age: " + Lerroy.returnAge());
+```
+This will print out Age: 24, this is because it calls the method returnAge from the object Lerroy.
 
 
 <-- [Back](https://zxtreme03.github.io/ComputerScience/lessonsPage)
