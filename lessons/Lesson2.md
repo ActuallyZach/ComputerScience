@@ -1,4 +1,4 @@
-# Lesson 1 - 10/24/2019 --> Java Classes and Methods
+# Lesson 2 - 10/28/2019 --> Java Classes and Methods
 ## What is a class?
 A class in java is a blueprint that the user creates. From these blueprints(classes) you can create objects. A simple void class is as follows --.
 ```js
