@@ -4,6 +4,9 @@
 ## [Java lesson 1](./lessons/Lesson1) - 10/24/19
 - Lesson 1 is on If statements.
 
+## [Java lesson 2](./lessons/Lesson2) - 10/28/19
+- Lesson 2 is on classes and methods.
+
 ### Here are some links
 - [I want to learn how to code](./CODING)
 - [Here are some power-points for CSA](./Powerpoints)

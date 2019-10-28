@@ -1,36 +1,62 @@
-# Lesson 1 - 10/24/2019 --> Java if statements
-If statements in java are one of the core things to learn. Below are some examples of If statements
+# Lesson 1 - 10/24/2019 --> Java Classes and Methods
+## What is a class?
+A class in java is a blueprint that the user creates. From these blueprints(classes) you can create objects. A simple void class is as follows --.
 ```js
-//These are basic if statements with a pre declared variable bool1.
-if (bool1 == true) { //This is the first check, what it does is check if bool1 is true. If bool1 is true it will activate the code within the curly braces.
-    System.out.println("This will be activated if bool1 is true");
+public class person() {
+  String name;
+  int age;
+  bool sick, married;
 
-} else { // If bool1 is false then this code will be activated. This is because it is an else statement and when the if statement is false it goes to the next else statement.
-    System.out.println("This will be activated if bool1 is false");
+  public person(String Name, int Age, bool Sick, bool Married) {
+    /*
+    This is the constructor it is a method with the same name as the class. This tells java how you will construct your objects created from the class.
+    */
+    name = Name;
+    age = Age;
+    sick = Sick;
+    married = Married;
+
+  }
+  /*
+  Methods not shown
+  */
+}
+
+```
+That was a simple class named person. You could create an object with this class by using the code:
+```
+person Larry = new Person("Lerroy", 24, false, false);
+```
+This will construct the object Lerroy with the class person. You can see that we use the constructor we set up before when creating this new object, you can see that in action when we enter the Name, age, sick, married variable after declaring new Person.
+
+## What types of methods are there
+There are many different types of methods the user can create and insert into their classes. They are as follows -->
+
+### Void Type
+The first method is the void method which is simply
+```js
+/*
+Assume that the variable name has already been declared.
+*/
+public void displayName() {
+  System.out.println(name);
 
 }
 ```
-Now those were simple if statements with just IF - Else. Now we will look at IF - Else If, statements.
+Notice how the void method has no return statement. This is because it requires none.
+
+### int type
+The int method returns an integer when it is completed. An example is
 ```js
-if (string1.equals("Correct")) { //This first check, looks to see if string1 is equal to the String "Correct". If this is not true then java will go to the next if statement
-    System.out.println("This will be activated if string1 is equal to \"Correct\"");
+/*
+Assume that the variable age has already been declared.
+*/
+public int returnAge() {
 
-} else if (string1.equals("Wrong")) { //This is the second check, it looks to see if string1 is equal to the String "Wrong". If this is not true the if statement will exit because there is no else statement at the very end.
-    System.out.println("This will be activated if string1 is equal to \"Wrong\"");
-
+  return age;
 }
 ```
-Now for one of the last simple if statements, an If - Else If - else
-```js
-if (string1.equals("Correct")) { //This first check, looks to see if string1 is equal to the String "Correct". If this is not true then java will go to the next if statement
-    System.out.println("This will be activated if string1 is equal to \"Correct\"");
+Notice how this method does return a value. It returns the variable age.
 
-} else if (string1.equals("Wrong")) { //This is the second check, it looks to see if string1 is equal to the String "Wrong". If this is not true the if statement will go to the else clause below.
-    System.out.println("This will be activated if string1 is equal to \"Wrong\"");
 
-} else { // This wil activate when string one is equal to neither "Correct" or "Wrong"
-   System.out.println("This will be activated if string is not equal to either \"Correct\" or \"Wrong\");
-
-}
-```
 <-- [Back](https://zxtreme03.github.io/ComputerScience/lessonsPage)
