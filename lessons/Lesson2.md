@@ -174,7 +174,7 @@ Balance: 100000.0
 ### Why does this all work like this?
 The reason that all of this works is because we created an object named person1 with the class of person. From this person1 object we are able to call the methods within the person class. When we first created the person1 class we gave it a bunch of different values it can use to set the variables included within the object.
 
-##If you want to learn more check out these pages
+## If you want to learn more check out these pages
 [Instances of Classes power-point](https://github.com/Zxtreme03/ComputerScience/raw/master/CSA/CSA%20Powerpoints/Instances%20of%20classes.ppt)
 [Project on repl.it](https://repl.it/@Zxtreme03/PersonClassDemo)
 
