@@ -1,5 +1,6 @@
 # Lessons Page
 ## Welcome to the lessons page, on here you can find lessons and other things that will help you start off.
+### Disclaimer: These lessons are made for someone with a general understanding of how code.
 
 ## [Java lesson 1](./lessons/Lesson1) - 10/24/19
 - Lesson 1 is on If statements.
