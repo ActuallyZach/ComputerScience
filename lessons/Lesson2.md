@@ -26,7 +26,7 @@ public class person() {
 ```
 That was a simple class named person. You could create an object with this class by using the code:
 ```
-person Larry = new Person("Lerroy", 24, false, false, 100000.0);
+person Lerroy = new Person("Lerroy", 24, false, false, 100000.0);
 ```
 This will construct the object Lerroy with the class person. You can see that we use the constructor we set up before when creating this new object, you can see that in action when we enter the Name, age, sick, married, and money variable after declaring new Person.
 
@@ -148,5 +148,20 @@ public class person() {
   }
 }
 ```
+Now we are going to look at the main class of our main file. That would look something like this -->
+```js
+class Main {
+  person Lerroy = new Person("Lerroy", 24, false, false, 100000.0);
+
+  public static void main(String[] args) {
+    System.out.println("Age: " + Lerroy.returnAge());
+    System.out.println("Sick: " + Lerroy.isSick());
+    System.out.println("Name: " + Lerroy.getName());
+    System.out.println("Balance: " + Lerroy.getBalance());
+
+  }
+}
+```
+
 
 <-- [Back](https://zxtreme03.github.io/ComputerScience/lessonsPage)
