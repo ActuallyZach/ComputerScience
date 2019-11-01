@@ -8,6 +8,9 @@
 ## [Java lesson 2](./lessons/Lesson2) - 10/28/19
 - Lesson 2 is on classes and methods.
 
+## [Java lesson 3](./lessons/Lesson3) - 11/1/19
+- Lesson 2 covers the Math.random function.
+
 ### Here are some links
 - [I want to learn how to code](./CODING)
 - [Here are some power-points for CSA](./Powerpoints)
