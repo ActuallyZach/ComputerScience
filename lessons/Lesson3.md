@@ -19,6 +19,7 @@ This is a fairly easy thing to grasp once you have memorized the formula.
 
 ## If you want to learn more check out these pages
 [Using the math class power-point](https://github.com/Zxtreme03/ComputerScience/raw/master/CSA/CSA%20Powerpoints/UsingTheMathClass.ppt)
+
 [Project on repl.it](https://repl.it/@Zxtreme03/MathRandomDemo)
 
 <-- [Back](https://zxtreme03.github.io/ComputerScience/lessonsPage)
