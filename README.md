@@ -1,5 +1,5 @@
 # Welcome to my Computer Science Page
-### **⚠️⚠️⚠️ Please only use this website only for reference. It is here to help you on concepts you do not understand. Copying things will not help you advance in the class and will result in you not learning anything from this class. ⚠️⚠️⚠️**
+### **⚠️⚠️⚠️ Please only use this website only for reference. It is here to help you on concepts you do not understand. Copying things will not help you advance in the class and will result in you not learning anything from this class. This page is just a repository for all of my work so I can accses it outside of my computer ⚠️⚠️⚠️**
 
 ## On here you can find
 1. [Lessons](./lessonsPage) --> **Under Construction**
