@@ -7,9 +7,6 @@
 6. [Website Download](https://github.com/Zxtreme03/ComputerScience/releases/tag/1.0.0)
 7. [Other Projects](./projects) 
 
-## Other stuffz
-- I mean it's just a website just click stuff
-
 ## What is coming in the near future?
 1. Lessons!!
 - I'm going to be writing out my own lessons on stuff I am currently learning so if your stuck on something you can looks through the lessons that will be coming soon
