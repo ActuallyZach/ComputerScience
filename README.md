@@ -4,7 +4,7 @@
 1. [Lessons](./lessonsPage) --> **Under Construction**
 2. [Learn to code](./CODING) --> **Working on it**
 5. Resources and stuff that I think are useful to learn to code
-6. [Complete Package](https://github.com/Zxtreme03/ComputerScience/releases/tag/1.0.0) --> This is all the packages that you need to get started with.
+6. [Website Download](https://github.com/Zxtreme03/ComputerScience/releases/tag/1.0.0)
 7. [Other Projects](./projects) 
 
 ## Other stuffz
