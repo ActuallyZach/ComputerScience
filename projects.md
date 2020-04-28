@@ -1,6 +1,6 @@
 # This is the place where you can find all my other project's I have worked on
 
-## [Hackathon Stuffz](https://github.com/Zxtreme03/ComputerScience/tree/master/HackAThon)
+## [Hackathon Stuff](https://github.com/Zxtreme03/ComputerScience/tree/master/HackAThon)
 Check out this for a small project me and my friends made in 4 hours for a competition.
 
 ## [Oopsie OS](https://github.com/Zxtreme03/OopsieOS)
