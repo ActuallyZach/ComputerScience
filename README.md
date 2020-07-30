@@ -1,8 +1,12 @@
 # Welcome to my Computer Science Page
+What is this?
+ This is my portfolio for the both AP Computer Science Principles and AP Computer Science A. It is also a small repository of resources for beginner coders.
 
 ## On here you can find
 1. [Lessons](./lessonsPage) --> **Under Construction**
 2. [Learn to code](./CODING) --> **Working on it**
+3. [AP CSP Page](./CSP) --> **Complete Class**
+4. [AP CSA Page](./CSA) --> **Most of the class I think**
 5. Resources and stuff that I think are useful to learn to code
 6. [Website Download](https://github.com/Zxtreme03/ComputerScience/releases/tag/1.0.0)
 7. [Other Projects](./projects) 
